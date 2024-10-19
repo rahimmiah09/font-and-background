@@ -1,0 +1,39 @@
+/* Small screens (300px and up) */
+@media (min-width: 300px) {
+  h1 {
+    font-size: 12vw;
+    background-color: rgb(231, 149, 159);
+  }
+}
+
+/* Medium screens (768px and up) */
+@media (min-width: 768px) {
+  h1 {
+    font-size: 10vw;
+    background-color: rgb(151, 82, 93);
+  }
+}
+
+/* Large screens (1024px and up) */
+@media (min-width: 1024px) {
+  h1 {
+    font-size: 8vw;
+    background-color: rgb(219, 40, 70);
+  }
+}
+
+/* Extra-large screens (1280px and up) */
+@media (min-width: 1280px) {
+  h1 {
+    font-size: 6vw;
+    background-color: rgb(240, 31, 66);
+  }
+}
+
+/* 2XL screens (1536px and up) */
+@media (min-width: 1536px) {
+  h1 {
+    font-size: 5vw;
+    background-color: rgb(85, 11, 24);
+  }
+}
